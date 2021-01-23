@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import image2 from "./images/grill.jpg";
 import image1 from "./images/roast.jpg";
@@ -8,9 +7,6 @@ import image5 from "./images/fries.jpg";
 import image6 from "./images/chick.jpg";
 import image7 from "./images/fries.jpg";
 import image8 from "./images/sour.jpg";
-import image9 from "./images/grill.jpg";
-import image11 from "./images/grill.jpg";
-import image12 from "./images/grill.jpg";
 
 function App() {
   return (
