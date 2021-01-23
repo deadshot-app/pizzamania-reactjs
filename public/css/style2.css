@@ -1,0 +1,31 @@
+.navbar-home {
+    background-color: #3c763d;
+    border: none;
+    border-color: #e7e7e7;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.navbar-home .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-home .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+.carousel-content {
+    height: 550px;
+    
+}
+.About {
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+.chicken {
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+.footer {
+	background-color: lightblue;
+	padding: 1rem 0;
+	color: white;
+}
