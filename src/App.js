@@ -26,7 +26,7 @@ function App() {
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
             </button>
-            <a className="navbar-brand" href="#">
+            <a className="navbar-brand" href="www.facebook.com">
               CHICKEN REPUBLIC
             </a>
           </div>
@@ -37,13 +37,13 @@ function App() {
           >
             <ul className="nav navbar-nav navbar-right">
               <li>
-                <a href="#">Home</a>
+                <a href={www.twitter.com}>Home</a>
               </li>
               <li>
-                <a href="#">About Chicken</a>
+                <a href={www.linkendin.com}>About Chicken</a>
               </li>
               <li>
-                <a href="#">Chicken Types</a>
+                <a href={www.codetrain.com}>Chicken Types</a>
               </li>
             </ul>
           </div>
