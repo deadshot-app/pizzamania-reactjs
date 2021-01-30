@@ -4,7 +4,7 @@ import image1 from "./images/roast.jpg";
 import image3 from "./images/fried.jpg";
 import image4 from "./images/sour.jpg";
 import image5 from "./images/fries.jpg";
-import image6 from "./images/chick.jpg";
+
 import image7 from "./images/fries.jpg";
 import image8 from "./images/sour.jpg";
 
@@ -26,7 +26,7 @@ function App() {
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
             </button>
-            <a className="navbar-brand" href="www.facebook.com">
+            <a className="navbar-brand" href={"www.facebook.com"}>
               CHICKEN REPUBLIC
             </a>
           </div>
@@ -37,13 +37,13 @@ function App() {
           >
             <ul className="nav navbar-nav navbar-right">
               <li>
-                <a href={www.twitter.com}>Home</a>
+                <a href={"www.twitter.com"}>Home</a>
               </li>
               <li>
-                <a href={www.linkendin.com}>About Chicken</a>
+                <a href={"www.linkendin.com"}>About Chicken</a>
               </li>
               <li>
-                <a href={www.codetrain.com}>Chicken Types</a>
+                <a href={"www.codetrain.com"}>Chicken Types</a>
               </li>
             </ul>
           </div>
@@ -173,7 +173,7 @@ function App() {
           </div>
           <div className="col-md-3">
             <div className="thumbnail">
-              <img src={image6} alt="fries" />
+              <img src={image8} alt="fries" />
               <div className="caption">
                 <h3>chicken</h3>
                 <p>
@@ -209,7 +209,7 @@ function App() {
           </div>
           <div className="col-md-3">
             <div className="thumbnail">
-              <img src={image8} alt="fries" />
+              <img src={image4} alt="fries" />
               <div className="caption">
                 <h3>chicken</h3>
                 <p>
